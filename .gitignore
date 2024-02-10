@@ -15,3 +15,7 @@ docs/
 .env
 
 .keystore
+
+broadcast/
+lib/
+.DS_Store
